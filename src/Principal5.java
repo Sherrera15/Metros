@@ -119,7 +119,7 @@ public class Principal5 extends javax.swing.JFrame {
     private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton1ActionPerformed
         // TODO add your handling code here:
         String  num1, tota,cuota,tot,totals;
-        double n1 = 1,resultado = 0, total,falt,falta;
+        double n1 = 0,resultado = 0, total,falt,falta;
        
         
         
